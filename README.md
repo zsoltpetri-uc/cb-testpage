@@ -1,1 +1,1 @@
-# https://zsoltpetri-uc.github.io/cb-testpage/
+# https://zsoltpetri-uc.github.io/uc-testpage/
